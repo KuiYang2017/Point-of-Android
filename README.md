@@ -1,9 +1,7 @@
 
 Tips
 =
-
-[[toc]]
-
+>later
 
 Main
 =
