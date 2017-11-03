@@ -2,7 +2,7 @@
 Tips
 =
 
->later
+[[toc]]
 
 
 Main
